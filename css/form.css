@@ -1,0 +1,12 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+.required {
+  color: red;
+}
+#speciesDesc,
+#photographer,
+#photoEmail,
+#notes {
+  width: 63%;
+}
